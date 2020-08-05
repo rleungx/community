@@ -32,3 +32,4 @@ None
 ## Active Contributors
 
 * [mantuliu](https://github.com/mantuliu), [Hive Box](https://www.fcbox.com/en)
+* [JmPotato](https://github.com/JmPotato), [PingCAP](https://pingcap.com/en/)
