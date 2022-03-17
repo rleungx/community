@@ -1,0 +1,17 @@
+# A Vote for CabinfeverB as PD Reviewer
+
+## Proposal
+
+[@CabinfeverB](https://github.com/CabinfeverB) has been working on `tikv/pd` for more than five months. The mainly contributions are listed following:
+
+- [Speed up balance leader scheduling](https://github.com/tikv/pd/issues/4610)
+- [PD self-protection mechanism](https://github.com/tikv/pd/issues/4480)
+- [Replace `juju/ratelimit`](https://github.com/tikv/pd/issues/4206)
+
+* [Authored pull requests](https://github.com/tikv/pd/pulls?q=+is%3Apr+author%3ACabinfeverB)
+
+I (@rleungx) hereby nominate @bufferflies as PD Reviewer and call for a vote.
+
+## Deadline
+
+The vote will be open for at least 72 hours unless there is an objection or not enough votes.
